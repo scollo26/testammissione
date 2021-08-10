@@ -1,0 +1,72 @@
+
+.logo{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top:auto;
+ width: 200px;
+
+}
+ .logo-text{
+  text-align: center;
+  color: #00FF00;
+  font-size: 200%;
+  font-family: 'Rubik', sans-serif;
+ }
+
+  body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+
+  .mydiv{
+    width:40%;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 70px;
+    margin-top: 50px;
+
+  }
+
+.row{
+  background-color: #00FF00;
+  padding: 10px ;
+  border: 1px  ;
+  height: 25px;
+  text-align: center;
+}
+
+
+.margine{
+  margin-top: 3%;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.freccia:before{
+  content: '\21A6';
+}
+
+ .carica1{
+   background-color: orange;
+   width: 30%;
+   padding: 12px;
+   border-radius: 8%;
+ }
+.carica2{
+  background-color: #00FF00;
+  width: 70%;
+  padding: 12px;
+  border-radius: 8%;
+
+
+}
+.carica3{
+  background-color: red;
+  width: 15%;
+  padding: 12px;
+  border-radius: 8%;
+}
